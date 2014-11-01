@@ -19,7 +19,7 @@ Make Github-style anchors with Angular!
 		opacity:1;
 	}
 	.icon-link:before {
-		content: "\u00A7";
+		content: "§";
 	}
 	.icon-link {
 		font-size:90%;
