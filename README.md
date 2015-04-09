@@ -28,7 +28,7 @@ Make Github-style anchors with Angular!
 
 # Credits
 
-Based on (and includes some source code from) [AngularJS](https://github.com/bryanbraun/anchorjs/)
+Based on (and includes some source code from) [AnchorJS](https://github.com/bryanbraun/anchorjs/)
 
 # License
 
